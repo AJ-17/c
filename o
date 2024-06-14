@@ -1,0 +1,5 @@
+#!/bin/bash
+
+gcc-12 -w pro.c -o pro
+chmod +x pro
+./pro
